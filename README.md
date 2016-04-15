@@ -14,10 +14,18 @@ as第一大插件，版本控制必备，.gitignore内容写法，来这里看�
 
 <!--more-->
 
-当然，还可以按照作者的指南来操作咯，哈哈。香赞。
+# [Android Methods Count](http://www.methodscount.com/plugins)
+---
+
+展示安卓依赖库里方法数，支持的仓库包括：`Maven Central`, `jCenter`, `JitPack`
+
+![1](http://www.methodscount.com/images/methods-count-plugin-1.png)
+![2](http://www.methodscount.com/images/methods-count-plugin-2.png)
 
 # [Genymotion](https://www.genymotion.com/#!/download)
 ---
+
+速度快，运行流畅的安卓模拟器
 
 来这里吧，专门给你准备的：[Eclipse和Android Studio下安装Genymotion模拟器插件](http://www.ebaina.com/bbs/forum.php?mod=viewthread&tid=8418&extra=page%3D1)
 
