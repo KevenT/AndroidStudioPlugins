@@ -14,6 +14,13 @@ as第一大插件，版本控制必备，.gitignore内容写法，来这里看�
 
 <!--more-->
 
+# [PermissionsDispatcher](https://github.com/shiraji/permissions-dispatcher-plugin)
+---
+
+IntelliJ plugin for supporting PermissionsDispatcher
+
+<img src="https://raw.githubusercontent.com/shiraji/permissions-dispatcher-plugin/master/website/images/pd.gif" width="600"/>
+
 # [Android Methods Count](http://www.methodscount.com/plugins)
 ---
 
