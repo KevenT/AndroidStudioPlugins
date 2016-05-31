@@ -10,6 +10,23 @@ Android Studio 常用插件及浅释
 # [.ignore](https://github.com/hsz/idea-gitignore)
 ---
 
+# [eventbus3-intellij-plugin](https://github.com/kgmyshin/eventbus3-intellij-plugin)
+---
+
+EventBus3 事件管理
+
+<img src="https://raw.githubusercontent.com/kgmyshin/eventbus3-intellij-plugin/master/art/cap.gif" width="600"/>
+
+
+
+# [eventbus-intellij-plugin](https://github.com/kgmyshin/eventbus-intellij-plugin)
+---
+
+EventBus 事件管理
+
+<img src="https://raw.githubusercontent.com/kgmyshin/eventbus-intellij-plugin/master/art/cap.gif" width="600"/>
+
+
 as第一大插件，版本控制必备，.gitignore内容写法，来这里看看：[git使用之二——.gitignore文件详解 ](http://jp1017.gitcafe.io/2015/12/20/git%E4%BD%BF%E7%94%A8%E4%B9%8B%E4%BA%8C%E2%80%94%E2%80%94-gitignore%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3/)
 
 <!--more-->
