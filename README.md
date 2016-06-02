@@ -7,10 +7,20 @@ Android Studio 常用插件及浅释
 
 这里给出几个平时常用的as插件，方便我们的开发。点击标题就直接可以进入插件的github源码查看。
 
+如何自己开发插件，请参考鸿洋大神的博客：[自己编写Android Studio插件 别停留在用的程度了](https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820316&idx=1&sn=49d4e6b68b114a2e8a8e88f3d1b0cd9e&scene=1&srcid=0601lzX1UwNhWeitdRa3Bmfx#rd)
+
 # [.ignore](https://github.com/hsz/idea-gitignore)
 ---
 
 as第一大插件，版本控制必备，.gitignore内容写法，来这里看看：[git使用之二——.gitignore文件详解 ](http://jp1017.gitcafe.io/2015/12/20/git%E4%BD%BF%E7%94%A8%E4%B9%8B%E4%BA%8C%E2%80%94%E2%80%94-gitignore%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3/)
+
+# [ECTranslation](https://github.com/Skykai521/ECTranslation)
+---
+
+可以将英文翻译为中文
+
+<img src="https://raw.githubusercontent.com/Skykai521/ECTranslation/master/img/translation_img.png" width="600"/>
+
 
 # [eventbus3-intellij-plugin](https://github.com/kgmyshin/eventbus3-intellij-plugin)
 ---
@@ -19,19 +29,12 @@ EventBus3 事件管理
 
 <img src="https://raw.githubusercontent.com/kgmyshin/eventbus3-intellij-plugin/master/art/cap.gif" width="600"/>
 
-
-
 # [eventbus-intellij-plugin](https://github.com/kgmyshin/eventbus-intellij-plugin)
 ---
 
 EventBus 事件管理
 
 <img src="https://raw.githubusercontent.com/kgmyshin/eventbus-intellij-plugin/master/art/cap.gif" width="600"/>
-
-
-as第一大插件，版本控制必备，.gitignore内容写法，来这里看看：[git使用之二——.gitignore文件详解 ](http://jp1017.gitcafe.io/2015/12/20/git%E4%BD%BF%E7%94%A8%E4%B9%8B%E4%BA%8C%E2%80%94%E2%80%94-gitignore%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3/)
-
-<!--more-->
 
 # [PermissionsDispatcher](https://github.com/shiraji/permissions-dispatcher-plugin)
 ---
