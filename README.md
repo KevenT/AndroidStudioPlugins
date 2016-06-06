@@ -245,13 +245,13 @@ Intelij IDEA plugin for displaying a code mini-map similar to the one found in S
 
 只要配置下 gradle 文件就可以：
 
-在 root gradle 文件下添加：
+1. 在 root gradle 文件下添加
 
 ```
 classpath 'com.droidtitan:lint-cleaner-plugin:0.3.0'
 ```
 
-在 app 下 gradle 文件配置插件：
+2. 在 app 下 gradle 文件配置插件
 
 ```
 apply plugin: 'com.droidtitan.lintcleaner'
@@ -266,6 +266,34 @@ lintCleaner {
 
     // Default path is build/outputs/lint-results.xml
     lintXmlFilePath = 'path/to/lint-results.xml'
+}
+```
+
+# [drawable-optimizer](https://github.com/fabiomsr/drawable-optimizer)
+---
+
+优化项目中的 png 文件
+
+只要配置下 gradle 文件就可以：
+
+1. 在 root gradle 文件下添加
+
+```
+classpath 'org.fabiomsr:drawable-optimizer-gradle-plugin:1.0.4'
+```
+
+2. 在 app 下 gradle 文件配置插件
+
+```
+apply plugin: 'org.fabiomsr.drawableoptimizer'
+
+
+drawableOptimizer {
+    optimizer = 'zopfli'
+    compressionLevel = 9
+    iterations = 15
+    onlyOnRelease = true
+    logLevel = 'info'
 }
 ```
 
