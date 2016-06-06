@@ -238,6 +238,39 @@ Intelij IDEA plugin for displaying a code mini-map similar to the one found in S
 
 ![CodeGlance](http://7xlah4.com1.z0.glb.clouddn.com/20160317.png)
 
+# [lint-cleaner-plugin](https://github.com/marcoRS/lint-cleaner-plugin)
+---
+
+清除项目中的无用资源
+
+只要配置下 gradle 文件就可以：
+
+在 root gradle 文件下添加：
+
+```
+classpath 'com.droidtitan:lint-cleaner-plugin:0.3.0'
+```
+
+在 app 下 gradle 文件配置插件：
+
+```
+apply plugin: 'com.droidtitan.lintcleaner'
+
+
+lintCleaner {
+    // Exclude specific files
+    exclude = ['com_crashlytics_export_strings.xml','config.xml']
+
+    // Ability to ignore all resource files. False by default. 
+    ignoreResFiles = true
+
+    // Default path is build/outputs/lint-results.xml
+    lintXmlFilePath = 'path/to/lint-results.xml'
+}
+```
+
+
+
 
 分享是一种美德，更是一种生活方式！！
 
