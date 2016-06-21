@@ -14,6 +14,17 @@ Android Studio 常用插件及浅释
 
 as第一大插件，版本控制必备，.gitignore内容写法，来这里看看：[git使用之二——.gitignore文件详解 ](http://jp1017.gitcafe.io/2015/12/20/git%E4%BD%BF%E7%94%A8%E4%B9%8B%E4%BA%8C%E2%80%94%E2%80%94-gitignore%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3/)
 
+# [RemoveButterKnife](https://github.com/u3shadow/RemoveButterKnife)
+---
+
+帮助去掉 ButterKnife 库的 android studio 插件
+
+<img src="https://camo.githubusercontent.com/0327cda5b531ab6f2b803abe295c42225668d28d/687474703a2f2f7777772e7533636f64696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30362f312e676966" width="600"/>
+
+
+# [eventbus3-intellij-plugin](https://github.com/kgmyshin/eventbus3-intellij-plugin)
+---
+
 # [ECTranslation](https://github.com/Skykai521/ECTranslation)
 ---
 
@@ -241,17 +252,17 @@ Intelij IDEA plugin for displaying a code mini-map similar to the one found in S
 # [lint-cleaner-plugin](https://github.com/marcoRS/lint-cleaner-plugin)
 ---
 
-清除项目中的无用资源
+### 功能：清除项目中的无用资源
 
 只要配置下 gradle 文件就可以：
 
-1. 在 root gradle 文件下添加
+1 在 root gradle 文件下添加
 
 ```
 classpath 'com.droidtitan:lint-cleaner-plugin:0.3.0'
 ```
 
-2. 在 app 下 gradle 文件配置插件
+2 在 app 下 gradle 文件配置插件
 
 ```
 apply plugin: 'com.droidtitan.lintcleaner'
@@ -272,17 +283,17 @@ lintCleaner {
 # [drawable-optimizer](https://github.com/fabiomsr/drawable-optimizer)
 ---
 
-优化项目中的 png 文件
+### 功能：优化项目中的 `png` 文件
 
 只要配置下 gradle 文件就可以：
 
-1. 在 root gradle 文件下添加
+1 在 root gradle 文件下添加
 
 ```
 classpath 'org.fabiomsr:drawable-optimizer-gradle-plugin:1.0.4'
 ```
 
-2. 在 app 下 gradle 文件配置插件
+2 在 app 下 gradle 文件配置插件
 
 ```
 apply plugin: 'org.fabiomsr.drawableoptimizer'
