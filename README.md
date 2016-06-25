@@ -218,14 +218,14 @@ Android Studio plugin which automatically generates drawable selectors from appr
 
 我这里有个需求，美工妹妹要陪男朋友，然后只给我一套xxh的图标，那么这个工具就是来解放你们的，手把手的教：
 
-![Drawable](http://7xlah4.com1.z0.glb.clouddn.com/20151230011.gif)
+![Drawable](https://raw.githubusercontent.com/winterDroid/android-drawable-importer-intellij-plugin/develop/src/main/resources/images/scale_add.png)
 
 # [android-material-design-icon-generator-plugin](https://github.com/konifar/android-material-design-icon-generator-plugin)
 ---
 
 This plugin help you to set material design icon to your project.
 
-![material](http://7xlah4.com1.z0.glb.clouddn.com/20160216capture.gif)
+![material](https://raw.githubusercontent.com/konifar/android-material-design-icon-generator-plugin/master/docs/capture.gif)
 
 # [AndroidStudioSuperPlugin](https://github.com/b2b2244424/AndroidStudioSuperPlugin)
 ---
