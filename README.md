@@ -28,6 +28,13 @@ MD 风格主题，强烈建议添加，各种爱的不行不行的
 
 <img src="https://raw.githubusercontent.com/igorspasic/idea-sexyeditor/master/sexyeditor.jpg" width="600"/>
 
+# [Android DPI Calculator](https://github.com/JerzyPuchalski/Android-DPI-Calculator)
+---
+
+DPI 计算工具
+
+<img src="https://camo.githubusercontent.com/ce3be2aaa3b1f70b90f5b825c529694509d70313/68747470733a2f2f7261772e6769746875622e636f6d2f4a65727a7950756368616c736b692f416e64726f69642d4450492d43616c63756c61746f722f6d61737465722f696d672f6469616c6f672e706e67" width="400"/> <img src="https://camo.githubusercontent.com/7a8f977de7a1ba6cd23fb64cbd37566690c27cdc/68747470733a2f2f7261772e6769746875622e636f6d2f4a65727a7950756368616c736b692f416e64726f69642d4450492d43616c63756c61746f722f6d61737465722f696d672f6d656e752e706e67" width="300"/>
+
 
 # [RemoveButterKnife](https://github.com/u3shadow/RemoveButterKnife)
 ---
