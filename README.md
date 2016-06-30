@@ -14,6 +14,14 @@ Android Studio 常用插件及浅释
 
 as第一大插件，版本控制必备，.gitignore内容写法，来这里看看：[git使用之二——.gitignore文件详解 ](http://jp1017.gitcafe.io/2015/12/20/git%E4%BD%BF%E7%94%A8%E4%B9%8B%E4%BA%8C%E2%80%94%E2%80%94-gitignore%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3/)
 
+# [material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains)
+---
+
+MD 风格主题
+
+<img src="https://camo.githubusercontent.com/5a9c869268720fa615ef6b7bf2efc14e9575ef4f/687474703a2f2f63646e2e6869666976652e6e6f2f6d6174657269616c2d75692f7468656d652d64656661756c742e706e67" width="600"/>
+
+
 # [RemoveButterKnife](https://github.com/u3shadow/RemoveButterKnife)
 ---
 
