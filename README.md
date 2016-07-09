@@ -14,6 +14,16 @@ Android Studio 常用插件及浅释
 
 as第一大插件，版本控制必备，.gitignore内容写法，来这里看看：[git使用之二——.gitignore文件详解 ](http://jp1017.gitcafe.io/2015/12/20/git%E4%BD%BF%E7%94%A8%E4%B9%8B%E4%BA%8C%E2%80%94%E2%80%94-gitignore%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3/)
 
+# [img-optimizer-gradle-plugin](https://github.com/chenenyu/img-optimizer-gradle-plugin)
+---
+
+一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩
+
+|原图|极限压缩(lossy)|无损压缩(lossless)|
+|:---:|:---:|:---:|
+|526K|195K(减少63%)|473K(减少10%)|
+|![原图](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna.png)|![极限压缩](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna_lossy.png)|![无损压缩](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna_lossless.png)|
+
 # [Material Theme UI](https://github.com/ChrisRM/material-theme-jetbrains)
 ---
 
