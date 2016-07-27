@@ -24,6 +24,34 @@ as第一大插件，版本控制必备，.gitignore内容写法，来这里看�
 |526K|195K(减少63%)|473K(减少10%)|
 |![原图](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna.png)|![极限压缩](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna_lossy.png)|![无损压缩](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna_lossless.png)|
 
+# [drawable-optimizer](https://github.com/fabiomsr/drawable-optimizer)
+---
+
+### 功能：优化项目中的 `png` 文件
+
+只要配置下 gradle 文件就可以：
+
+1 在 root gradle 文件下添加
+
+```
+classpath 'org.fabiomsr:drawable-optimizer-gradle-plugin:1.0.4'
+```
+
+2 在 app 下 gradle 文件配置插件
+
+```
+apply plugin: 'org.fabiomsr.drawableoptimizer'
+
+
+drawableOptimizer {
+    optimizer = 'zopfli'
+    compressionLevel = 9
+    iterations = 15
+    onlyOnRelease = true
+    logLevel = 'info'
+}
+```
+
 # [Material Theme UI](https://github.com/ChrisRM/material-theme-jetbrains)
 ---
 
@@ -312,36 +340,12 @@ lintCleaner {
 }
 ```
 
-# [drawable-optimizer](https://github.com/fabiomsr/drawable-optimizer)
----
 
-### 功能：优化项目中的 `png` 文件
+最后，非常感谢您的阅读，有任何疑问，可以后面评论，我们可以互相探讨，共同进步，谢谢！
 
-只要配置下 gradle 文件就可以：
+神奇的安卓开发网站：[http://androidcat.com/](http://androidcat.com/)
 
-1 在 root gradle 文件下添加
-
-```
-classpath 'org.fabiomsr:drawable-optimizer-gradle-plugin:1.0.4'
-```
-
-2 在 app 下 gradle 文件配置插件
-
-```
-apply plugin: 'org.fabiomsr.drawableoptimizer'
-
-
-drawableOptimizer {
-    optimizer = 'zopfli'
-    compressionLevel = 9
-    iterations = 15
-    onlyOnRelease = true
-    logLevel = 'info'
-}
-```
-
-
-
+安卓开源库收集整理：[https://github.com/XXApple/AndroidLibs](https://github.com/XXApple/AndroidLibs)
 
 分享是一种美德，更是一种生活方式！！
 
