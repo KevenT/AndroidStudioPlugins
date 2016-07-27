@@ -52,6 +52,13 @@ drawableOptimizer {
 }
 ```
 
+# [wakatime](https://github.com/wakatime/jetbrains-wakatime)
+---
+
+记录你AS使用时长的插件，当然还支持很多IDE。使用时需要登录配置key，来这里：https://wakatime.com/settings/account
+
+<img src="https://camo.githubusercontent.com/0263e365a2efdb5dc0adb4b7aba6a783bc17a92e/68747470733a2f2f77616b6174696d652e636f6d2f7374617469632f696d672f53637265656e53686f74732f53637265656e2d53686f742d323031362d30332d32312e706e67" width="600"/>
+
 # [Material Theme UI](https://github.com/ChrisRM/material-theme-jetbrains)
 ---
 
