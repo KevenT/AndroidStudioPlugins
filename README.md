@@ -14,6 +14,13 @@ Android Studio 常用插件及浅释
 
 as第一大插件，版本控制必备，.gitignore内容写法，来这里看看：[git使用之二——.gitignore文件详解 ](http://jp1017.gitcafe.io/2015/12/20/git%E4%BD%BF%E7%94%A8%E4%B9%8B%E4%BA%8C%E2%80%94%E2%80%94-gitignore%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3/)
 
+# [SingletonTest](https://github.com/luhaoaimama1/SingletonTest)
+---
+
+快速生成单例模式的预设
+
+<img src="https://raw.githubusercontent.com/luhaoaimama1/SingletonTest/master/demo/tip1.png" width="270"/> <img src="https://raw.githubusercontent.com/luhaoaimama1/SingletonTest/master/demo/tip2.png" width="270"/> <img src="https://raw.githubusercontent.com/luhaoaimama1/SingletonTest/master/demo/tip3.png" width="270"/>
+
 # [img-optimizer-gradle-plugin](https://github.com/chenenyu/img-optimizer-gradle-plugin)
 ---
 
