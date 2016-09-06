@@ -96,9 +96,6 @@ DPI 计算工具
 <img src="https://camo.githubusercontent.com/0327cda5b531ab6f2b803abe295c42225668d28d/687474703a2f2f7777772e7533636f64696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30362f312e676966" width="600"/>
 
 
-# [eventbus3-intellij-plugin](https://github.com/kgmyshin/eventbus3-intellij-plugin)
----
-
 # [ECTranslation](https://github.com/Skykai521/ECTranslation)
 ---
 
@@ -106,11 +103,18 @@ DPI 计算工具
 
 <img src="https://raw.githubusercontent.com/Skykai521/ECTranslation/master/img/translation_img.png" width="600"/>
 
-
-# [eventbus3-intellij-plugin](https://github.com/kgmyshin/eventbus3-intellij-plugin)
+# [eventbus3-intellij-plugin](https://github.com/likfe/eventbus3-intellij-plugin)
 ---
 
-EventBus3 事件管理
+EventBus3 事件管理，最新可用
+
+<img src="https://raw.githubusercontent.com/kgmyshin/eventbus3-intellij-plugin/master/art/cap.gif" width="600"/>
+
+@deprecated
+# <del>[eventbus3-intellij-plugin](https://github.com/kgmyshin/eventbus3-intellij-plugin)</del>
+---
+
+EventBus3 事件管理，已失效
 
 <img src="https://raw.githubusercontent.com/kgmyshin/eventbus3-intellij-plugin/master/art/cap.gif" width="600"/>
 
