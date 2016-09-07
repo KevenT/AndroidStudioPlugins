@@ -59,6 +59,13 @@ drawableOptimizer {
 }
 ```
 
+# [android-strings-search-plugin](https://github.com/konifar/android-strings-search-plugin)
+---
+
+This plugin makes it easy to search text in strings resources. https://plugins.jetbrains.com/plugin/8550
+
+<img src="https://raw.githubusercontent.com/konifar/android-strings-search-plugin/master/art/demo.gif" width="600"/>
+
 # [wakatime](https://github.com/wakatime/jetbrains-wakatime)
 ---
 
