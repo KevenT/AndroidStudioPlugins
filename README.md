@@ -116,6 +116,12 @@ DPI 计算工具
 
 <img src="https://camo.githubusercontent.com/0327cda5b531ab6f2b803abe295c42225668d28d/687474703a2f2f7777772e7533636f64696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30362f312e676966" width="600"/>
 
+# [TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)
+---
+
+IntelliJ IDEA/Android Studio 翻译插件，支持中英互译、单词朗读， 我就用这一款，哈哈
+
+<img src="https://raw.githubusercontent.com/YiiGuxing/TranslationPlugin/master/images/action0.gif" width="320"/>
 
 # [intellij-translation](https://github.com/zyuyou/intellij-translation)
 ---
