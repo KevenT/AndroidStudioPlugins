@@ -14,6 +14,13 @@ Android Studio 常用插件及浅释
 
 as第一大插件，版本控制必备，.gitignore内容写法，来这里看看：[git使用之二——.gitignore文件详解 ](http://jp1017.gitcafe.io/2015/12/20/git%E4%BD%BF%E7%94%A8%E4%B9%8B%E4%BA%8C%E2%80%94%E2%80%94-gitignore%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3/)
 
+# [Freeline Plugin](https://github.com/alibaba/freeline/tree/master/android-studio-plugin)
+---
+
+阿里秒级编译工具 freeline https://github.com/alibaba/freeline AS插件
+
+<img src="https://camo.githubusercontent.com/c4679118c26bd76f05cecce590262f58b95c3f04/687474703a2f2f71696e69752e61706b66756e732e636f6d2f33433337323739462d323330452d343530382d424639382d3633414536304239313339332e706e67" width="800"/>
+
 # [RoboPOJOGenerator](https://github.com/robohorse/RoboPOJOGenerator)
 ---
 
