@@ -21,6 +21,10 @@ Android 多渠道打包的 Android Studio / IDEA 插件
 
 <img src="https://raw.githubusercontent.com/nukc/ApkMultiChannelPlugin/master/art/setting.png" width="320"/>
 
+# [SVG2VectorDrawable](https://github.com/misakuo/svgtoandroid)
+---
+Intellij Platform插件，通过其可以完成从svg文件到Android VectorDrawable的自动化转换
+
 # [Freeline Plugin](https://github.com/alibaba/freeline/tree/master/android-studio-plugin)
 ---
 
