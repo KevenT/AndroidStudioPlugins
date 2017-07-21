@@ -51,7 +51,7 @@ Intellij Platform插件，通过其可以完成从svg文件到Android VectorDraw
 
 Json to POJO(plan-old Java Object) —— GSON, Logan Square, Jackson
 
-<img src="https://raw.githubusercontent.com/robohorse/RoboPOJOGenerator/master/images/tutorial.gif" width="800"/>
+<img src="https://github.com/robohorse/RoboPOJOGenerator/blob/master/images/plugin_window_v3.png" width="400"/>
 
 # [exynap](http://exynap.com/)
 ---
@@ -124,7 +124,7 @@ This plugin makes it easy to search text in strings resources. https://plugins.j
 
 MD 风格主题，强烈建议添加，各种爱的不行不行的
 
-<img src="https://camo.githubusercontent.com/5a9c869268720fa615ef6b7bf2efc14e9575ef4f/687474703a2f2f63646e2e6869666976652e6e6f2f6d6174657269616c2d75692f7468656d652d64656661756c742e706e67" width="600"/>
+<img src="https://camo.githubusercontent.com/3dcc79bfafc0155e67e1df083ea24ee0d0317648/68747470733a2f2f706c7567696e732e6a6574627261696e732e636f6d2f66696c65732f393337372f73637265656e73686f745f31373038322e706e67" width="600"/>
 
 # [Sexy Editor](https://github.com/igorspasic/idea-sexyeditor)
 ---
