@@ -19,7 +19,7 @@ as第一大插件，版本控制必备，.gitignore内容写法，来这里看�
 
 查看依赖的第三方库的历史版本和最新版本, 见博客介绍: http://www.jianshu.com/p/bf45663433b4
 
-<img src="https://github.com/takuaraki/DependenciesVersionChecker/raw/develop/README/howToUse.gif" width="600/>
+<img src="https://github.com/takuaraki/DependenciesVersionChecker/raw/develop/README/howToUse.gif" width="600"/>
 
 # [pomodoro-tm](https://github.com/dkandalov/pomodoro-tm)
 ---
