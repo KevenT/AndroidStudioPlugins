@@ -21,6 +21,13 @@ as第一大插件，版本控制必备，.gitignore内容写法，来这里看�
 
 <img src="https://github.com/takuaraki/DependenciesVersionChecker/raw/develop/README/howToUse.gif" width="600"/>
 
+# [Android-Resource-Usage-Count](https://github.com/niorgai/Android-Resource-Usage-Count)
+---
+
+统计资源文件中每个标签被引用的次数
+
+<img src="https://camo.githubusercontent.com/b54d25904396fcc528e212de8f3ff915a1e96b97/687474703a2f2f3773627179732e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7265736f7563655f636f756e745f706c7567696e5f6578616d706c652e6a706567" width="600"/>
+
 # [pomodoro-tm](https://github.com/dkandalov/pomodoro-tm)
 ---
 
